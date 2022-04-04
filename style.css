@@ -1,0 +1,39 @@
+body {
+    background-color: orange;
+}
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:normal;
+    font-weight:bold;
+}
+h4{
+    background-color: red;
+    color: white;
+    font-style:italic;
+}
+#camera{
+    width:500px;
+    height: 400px;
+    border-color: blue;
+    border-width: 80px;
+}
+img {
+    width: 500px;
+    border-radius: 120px;
+    padding: 5px;
+    box-shadow:0 6px 8px 0 rgba(2,2,2,0.2);
+    border-color: yellow;
+}
+img:hover {
+    border-radius: 140px;
+}
+.column{
+    text-align: center;
+    padding: 5px;
+}
+.developerdiv{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    }
